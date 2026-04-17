@@ -2,7 +2,7 @@
   "name": "Task Manager",
   "short_name": "Tasks",
   "description": "Personal task manager — stay on top of it",
-  "start_url": "./index.html",
+  "start_url": "https://mattcoder13.github.io/Task_Manager",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
