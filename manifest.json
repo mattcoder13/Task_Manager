@@ -2,7 +2,7 @@
   "name": "Task Manager",
   "short_name": "Tasks",
   "description": "Personal task manager — stay on top of it",
-  "start_url": "/index.html",
+  "start_url": "/Task_Manager/index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0c0c0f",
